@@ -1,0 +1,79 @@
+{
+  "BERTHDATA": [
+    {
+      "TD": "WO",
+      "FROMBERTH": "",
+      "TOBERTH": "0099",
+      "FROMLINE": "",
+      "TOLINE": "",
+      "BERTHOFFSET": "0",
+      "PLATFORM": "2",
+      "EVENT": "C",
+      "ROUTE": "",
+      "STANOX": "65043",
+      "STANME": "WVRMPTN",
+      "STEPTYPE": "B",
+      "COMMENT": ""
+    },
+    {
+      "TD": "WO",
+      "FROMBERTH": "",
+      "TOBERTH": "0078",
+      "FROMLINE": "",
+      "TOLINE": "",
+      "BERTHOFFSET": "0",
+      "PLATFORM": "2",
+      "EVENT": "C",
+      "ROUTE": "",
+      "STANOX": "65043",
+      "STANME": "WVRMPTN",
+      "STEPTYPE": "B",
+      "COMMENT": ""
+    },
+    {
+      "TD": "WO",
+      "FROMBERTH": "",
+      "TOBERTH": "0105",
+      "FROMLINE": "",
+      "TOLINE": "",
+      "BERTHOFFSET": "0",
+      "PLATFORM": "4",
+      "EVENT": "C",
+      "ROUTE": "",
+      "STANOX": "65043",
+      "STANME": "WVRMPTN",
+      "STEPTYPE": "B",
+      "COMMENT": ""
+    },
+    {
+      "TD": "WO",
+      "FROMBERTH": "",
+      "TOBERTH": "0098",
+      "FROMLINE": "",
+      "TOLINE": "",
+      "BERTHOFFSET": "0",
+      "PLATFORM": "5",
+      "EVENT": "C",
+      "ROUTE": "",
+      "STANOX": "65043",
+      "STANME": "WVRMPTN",
+      "STEPTYPE": "B",
+      "COMMENT": ""
+    },
+    {
+      "TD": "WO",
+      "FROMBERTH": "",
+      "TOBERTH": "0076",
+      "FROMLINE": "",
+      "TOLINE": "",
+      "BERTHOFFSET": "0",
+      "PLATFORM": "6",
+      "EVENT": "C",
+      "ROUTE": "",
+      "STANOX": "65043",
+      "STANME": "WVRMPTN",
+      "STEPTYPE": "B",
+      "COMMENT": ""
+    }
+  ]
+}
